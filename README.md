@@ -1,3 +1,6 @@
+# This is just a fork for educational purposes only. Here will be notes about WebScoket Protocol and Pub/Sub Architecture.
+
+
 # Brave Chat Server
 
 [![Demo on Cloudflare](https://badgen.net/badge/icon/cloudflare/green?icon=telegram&label=brave-chat)](https://brave-chat-client.pages.dev/landing)
