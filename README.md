@@ -1,4 +1,4 @@
-# This is just a fork for educational purposes only. Here will be notes about WebScoket Protocol and Pub/Sub Architecture.
+# This is a fork for educational purposes only. Here will be notes about WebScoket Protocol and Pub/Sub Architecture. The reason why the notes are in this repo is because the app is a very good example of how to use websocket + pub/sub to implement a chat.
 
 
 # Brave Chat Server
